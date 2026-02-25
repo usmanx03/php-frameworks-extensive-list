@@ -74,6 +74,7 @@ I put this list together to capture as many PHP frameworks, runtimes, and CMS ec
 | Framework | Description | Website |
 |-----------|-------------|---------|
 | **CodeIgniter** (original) | Lightweight MVC framework, original version predating CI4 (2006–maintenance) | https://codeigniter.com |
+| **Lumen** | Lightweight Laravel microframework (2015–2021) | https://lumen.laravel.com/docs/11.x |
 | **FuelPHP** | Modular HMVC framework with strong security features (2010–mostly inactive) | https://fuelphp.com |
 | **PHPixie** | HMVC framework with modular components and ORM (2012–low activity) | https://phpixie.com |
 | **SilverStripe Framework** | MVC framework powering SilverStripe CMS (2006–present) | https://www.silverstripe.org |
